@@ -1,0 +1,10 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+7	php:S1780"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
+C	php:S1781")Write this "Array" keyword in lower case.(ÓëÅÐÿÿÿÿÿ
+>	php:S1781
+")Write this "Array" keyword in lower case.(æ¸›¥
+C	php:S1781")Write this "Array" keyword in lower case.(Ÿëóôüÿÿÿÿ
+>	php:S1781")Write this "Array" keyword in lower case.(ˆœ×ø
+M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(ïËëºøÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(ÌÙ…Ç

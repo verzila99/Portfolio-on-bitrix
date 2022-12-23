@@ -1,0 +1,255 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+`php:S103"KSplit this 127 characters long line (which is greater than 120 authorized).(û§ÈÚ
+ephp:S103À"KSplit this 140 characters long line (which is greater than 120 authorized).(µŞ“Úşÿÿÿÿ
+_php:S103Å"KSplit this 126 characters long line (which is greater than 120 authorized).(’‚T
+ephp:S103ë"KSplit this 124 characters long line (which is greater than 120 authorized).(’§¶ùÿÿÿÿ
+ephp:S103«"KSplit this 138 characters long line (which is greater than 120 authorized).(¿ãÁüÿÿÿÿ
+`php:S103È"KSplit this 170 characters long line (which is greater than 120 authorized).(™ …·
+`php:S103Ñ"KSplit this 151 characters long line (which is greater than 120 authorized).(ö¨ß¦
+`php:S103æ"KSplit this 151 characters long line (which is greater than 120 authorized).(ö¨ß¦
+V	php:S1808Ï";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ú";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808İ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ä";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808é";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808î";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ƒ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808…";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808•";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808—";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808š";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¡";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¥";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808®";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808°";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¹";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808»";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Õ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ú";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ã";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808å";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ü";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808ÿ"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808€";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808É";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808Ì"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808Í";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ï";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ò";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ã";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808å";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ø";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ü";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808’";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808–";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808›";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808­";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¼";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¾";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ğ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808‡";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808“";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808•";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808›";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808­";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808à"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808¯";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808²";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808Ä"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808´";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+c	php:S1808½"HMove this "elseif" to the same line as the previous closing curly brace.(Ÿ»™úÿÿÿÿ
+V	php:S1808¶";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¾";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Å";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ë";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808á";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808™";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808œ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¢";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808©";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Í";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ï";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808Ò"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808Ó";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808à";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ç";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808ó"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808ô";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808‰";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808‹";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808’";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808•"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+V	php:S1808–";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808˜";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808°";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808²";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Â";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ç";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Û";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808à";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808­";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¹";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808›	";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808§	";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808¬	";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808³	";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ò	";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ú	";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+_	php:S1808Î"DPut one space between this "if" keyword and the opening parenthesis.(Õ¤òÛüÿÿÿÿ
+_	php:S1808ˆ"DPut one space between this "if" keyword and the opening parenthesis.(ÿ®â²øÿÿÿÿ
+_	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(ÿ®â²øÿÿÿÿ
+_	php:S1808³"DPut one space between this "if" keyword and the opening parenthesis.(ÿ®â²øÿÿÿÿ
+_	php:S1808¾"DPut one space between this "if" keyword and the opening parenthesis.(ÿ®â²øÿÿÿÿ
+d	php:S1808â"IPut one space between this "foreach" keyword and the opening parenthesis.(éÈ”Ãüÿÿÿÿ
+Z	php:S1808ä"DPut one space between this "if" keyword and the opening parenthesis.(•šµß
+d	php:S1808÷"IPut one space between this "foreach" keyword and the opening parenthesis.(éÈ”Ãüÿÿÿÿ
+_	php:S1808û"DPut one space between this "if" keyword and the opening parenthesis.(ŠÏ×ùÿÿÿÿ
+_	php:S1808‘"DPut one space between this "if" keyword and the opening parenthesis.(¶ıúùÿÿÿÿ
+Z	php:S1808•"DPut one space between this "if" keyword and the opening parenthesis.(¶ø¤›
+_	php:S1808š"DPut one space between this "if" keyword and the opening parenthesis.(Éæ‰üÿÿÿÿ
+_	php:S1808¬"DPut one space between this "if" keyword and the opening parenthesis.(Éæ‰üÿÿÿÿ
+Z	php:S1808»"DPut one space between this "if" keyword and the opening parenthesis.(²òì™
+_	php:S1808½"DPut one space between this "if" keyword and the opening parenthesis.(Éæ‰üÿÿÿÿ
+_	php:S1808Ï"DPut one space between this "if" keyword and the opening parenthesis.(Éæ‰üÿÿÿÿ
+_	php:S1808†"DPut one space between this "if" keyword and the opening parenthesis.(¶ıúùÿÿÿÿ
+Y	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(ŒÄ¶Q
+Z	php:S1808œ"DPut one space between this "if" keyword and the opening parenthesis.(‡Üª
+Z	php:S1808Ÿ"DPut one space between this "if" keyword and the opening parenthesis.(È’î
+Z	php:S1808¬"DPut one space between this "if" keyword and the opening parenthesis.(¥“ßæ
+Z	php:S1808Ì"DPut one space between this "if" keyword and the opening parenthesis.(‡Üª
+Z	php:S1808Ï"DPut one space between this "if" keyword and the opening parenthesis.(È’î
+Z	php:S1808¨"DPut one space between this "if" keyword and the opening parenthesis.(˜ÕÊ
+_	php:S1808Ì"DPut one space between this "if" keyword and the opening parenthesis.(Õ¤òÛüÿÿÿÿ
+_	php:S1808ˆ"DPut one space between this "if" keyword and the opening parenthesis.(Õ¤òÛüÿÿÿÿ
+_	php:S1808¯"DPut one space between this "if" keyword and the opening parenthesis.(Õ¤òÛüÿÿÿÿ
+_	php:S1808ã"DPut one space between this "if" keyword and the opening parenthesis.(ÿ®â²øÿÿÿÿ
+_	php:S1808˜"DPut one space between this "if" keyword and the opening parenthesis.(‰µĞ¼ûÿÿÿÿ
+Z	php:S1808¬"DPut one space between this "if" keyword and the opening parenthesis.(»àÊº
+Y	php:S1808¸"DPut one space between this "if" keyword and the opening parenthesis.(áÕ”b
+_	php:S1808…
+"DPut one space between this "if" keyword and the opening parenthesis.(ÿ®â²øÿÿÿÿ
+{	php:S1808ú"eEither split this list into multiple lines, aligned at column "5" or put all arguments on line "761".(Í½çñ
+[	php:S1808ú"EMove the closing parenthesis with the opening brace on the next line.(Í½çñ
+J	php:S1808é"/Align all arguments in this list at column "7".(ûà†Äüÿÿÿÿ
+{	php:S1808ª"eEither split this list into multiple lines, aligned at column "5" or put all arguments on line "937".(Ô—¥ 
+[	php:S1808ª"EMove the closing parenthesis with the opening brace on the next line.(Ô—¥ 
+gphp:S100H"NRename function "GetName" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æ¸Á®øÿÿÿÿ
+fphp:S100Y"RRename function "GetPageName" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æçä£
+bphp:S100j"NRename function "GetFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íÑ®ë
+dphp:S100{"PRename function "GetFolder" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ôü
+kphp:S100Œ"VRename function "GetSiteTemplate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğü®
+jphp:S100"PRename function "IsInTheme" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹ÂÑşÿÿÿÿ
+iphp:S100Ç"TRename function "GetCachedData" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ºÀ€Á
+kphp:S100ı"VRename function "ApplyCachedData" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ôÌ€
+ophp:S100Ì"ZRename function "InitTemplateEngines" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(šİ³‰
+ephp:S100õ"KRename function "Init" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ì…·ìıÿÿÿÿ
+jphp:S100³"PRename function "CheckName" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘½ªıÿÿÿÿ
+uphp:S100À"[Rename function "__SearchTemplateFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ãÂ›Ôúÿÿÿÿ
+lphp:S100÷"WRename function "__SearchTemplate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·ÿÛÎ
+ophp:S100ù"[Rename function "__IncludePHPTemplate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îÙÕ
+kphp:S100À"VRename function "IncludeTemplate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›Ï¦Á
+pphp:S100„"VRename function "IncludeLangFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ı…ûüüÿÿÿÿ
+uphp:S100©"[Rename function "__IncludeMutatorFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒå«Ëşÿÿÿÿ
+qphp:S100¼"WRename function "__IncludeCSSFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿì¸üÿÿÿÿ
+pphp:S100Õ"VRename function "__IncludeJSFile" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦Åµ£şÿÿÿÿ
+rphp:S100ï"]Rename function "__GetTemplateExtension" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(šĞ‡ù
+tphp:S100ú"ZRename function "__GetTemplateEngine" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( Áµ—üÿÿÿÿ
+nphp:S100“"TRename function "SetViewTarget" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•ƒıÿÿÿÿ
+nphp:S100¦"TRename function "EndViewTarget" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ù»Åîüÿÿÿÿ
+nphp:S100Ù"TRename function "AddEditAction" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ö½ÿÆüÿÿÿÿ
+kphp:S100î"VRename function "AddDeleteAction" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Û‘ìÄ
+nphp:S100ÿ"TRename function "GetEditAreaId" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(á©‘šşÿÿÿÿ
+b	php:S1784ú"GExplicitly mention the visibility of this method "__GetTemplateEngine".( Áµ—üÿÿÿÿ
+iphp:S116"PRename this field "$__name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(š²äûÿÿÿÿ
+iphp:S116"PRename this field "$__page" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡•˜İÿÿÿÿÿ
+mphp:S116"TRename this field "$__engineID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î‹üÌûÿÿÿÿ
+dphp:S116"PRename this field "$__file" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÛıÂ‡
+gphp:S116"SRename this field "$__fileAlt" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ßŠç
+fphp:S116"RRename this field "$__folder" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íå½ç
+lphp:S116"XRename this field "$__siteTemplate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÓîÂ­
+tphp:S116 "[Rename this field "$__templateInTheme" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ËÎŒ§ÿÿÿÿÿ
+ephp:S116!"RRename this field "$__hasCSS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(­Ú
+jphp:S116""QRename this field "$__hasJS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œÆÒ‘úÿÿÿÿ
+nphp:S116%"URename this field "$__component" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¯Ä†Íÿÿÿÿÿ
+uphp:S116&"\Rename this field "$__component_epilog" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶Ö¡›üÿÿÿÿ
+lphp:S116("SRename this field "$__bInited" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±£ÿ§úÿÿÿÿ
+dphp:S116)"PRename this field "$__view" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‡ûÜ¤
+uphp:S117«"[Rename this local variable "$cache_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿ãÁüÿÿÿÿ
+xphp:S117§"cRename this local variable "$component_epilog" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ûÿşŸ
+wphp:S117°"]Rename this local variable "$target_key" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(«üüÿÿÿÿ
+{php:S117µ"aRename this local variable "$sub_target_key" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚’§üüÿÿÿÿ
+rphp:S117·"]Rename this local variable "$sub_target" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ùÏõÖ
+j	php:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(ôÌ€
+j	php:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(·ÿÛÎ
+j	php:S3776À"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Ï¦Á
+a	php:S1192§"KDefine a constant instead of duplicating this literal "/templates" 4 times.(¢ã²«
+f	php:S1192Ğ"KDefine a constant instead of duplicating this literal "/style.css" 7 times.(ôˆÅ»üÿÿÿÿ
+b	php:S1192"LDefine a constant instead of duplicating this literal "/components" 4 times.(û§ÈÚ
+d	php:S1192…"IDefine a constant instead of duplicating this literal ".default" 8 times.(’®ú·ùÿÿÿÿ
+a	php:S1192Ô"KDefine a constant instead of duplicating this literal "/script.js" 7 times.(öíâÆ
+H	php:S1481„"2Remove this unused "$templateName" local variable.(ß”ø·
+M	php:S1481†"2Remove this unused "$templateFile" local variable.(úº­äøÿÿÿÿ
+I	php:S1481ˆ"4Remove this unused "$templateFolder" local variable.(®âÍ
+I	php:S1481Š"3Remove this unused "$componentPath" local variable.(îÇİ«
+G	php:S1172ú"1Remove the unused function parameter "$arResult".(Í½çñ
+G	php:S1172ú"1Remove the unused function parameter "$arParams".(Í½çñ
+S	php:S1172ú"=Remove the unused function parameter "$parentTemplateFolder".(Í½çñ
+G	php:S1172ª"1Remove the unused function parameter "$arResult".(Ô—¥ 
+G	php:S1172ª"1Remove the unused function parameter "$arParams".(Ô—¥ 
+	php:S1448"tClass "CBitrixComponentTemplate" has 40 methods, which is greater than 20 authorized. Split it into smaller classes.(¬ñ‹áúÿÿÿÿ
+J	php:S1066±"/Merge this if statement with the enclosing one.(œ¦İúÿÿÿÿ
+E	php:S1066Ã"/Merge this if statement with the enclosing one.(µÔñ£
+E	php:S1066Ü"/Merge this if statement with the enclosing one.(µÔñ£
+A	php:S2003"&Replace "include" with "include_once".(†ÌŞ³üÿÿÿÿ
+A	php:S2003–"&Replace "include" with "include_once".(µ…¼•ıÿÿÿÿ
+<	php:S2003³"&Replace "include" with "include_once".(ğ¢Ã¹
+9php:S125à"Remove this commented out code.(¨¨¨‰ıÿÿÿÿ
+E	php:S5869µ"*Remove duplicates in this character class.(°ÇÒ½øÿÿÿÿ
+E	php:S5869µ"*Remove duplicates in this character class.(°ÇÒ½øÿÿÿÿ
+Dphp:S121J"0Add curly braces around the nested statement(s).(ë®Û¼
+Dphp:S121["0Add curly braces around the nested statement(s).(ë®Û¼
+Dphp:S121l"0Add curly braces around the nested statement(s).(ë®Û¼
+Dphp:S121}"0Add curly braces around the nested statement(s).(ë®Û¼
+Ephp:S121"0Add curly braces around the nested statement(s).(ë®Û¼
+Ephp:S121Ÿ"0Add curly braces around the nested statement(s).(ë®Û¼
+Ephp:S121É"0Add curly braces around the nested statement(s).(ë®Û¼
+Ephp:S121Ñ"0Add curly braces around the nested statement(s).(Ï—Êœ
+Ephp:S121Õ"0Add curly braces around the nested statement(s).(Ï—Êœ
+Jphp:S121ˆ"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Jphp:S121³"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Jphp:S121¾"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Jphp:S121„"0Add curly braces around the nested statement(s).(ª©§ªúÿÿÿÿ
+Dphp:S121‹"0Add curly braces around the nested statement(s).(½ ±V
+Jphp:S121"0Add curly braces around the nested statement(s).(ä†¾Îüÿÿÿÿ
+Jphp:S121”"0Add curly braces around the nested statement(s).(”¸öÜüÿÿÿÿ
+Jphp:S121š"0Add curly braces around the nested statement(s).(ßá…Àøÿÿÿÿ
+Ephp:S121"0Add curly braces around the nested statement(s).(ÚÀÂ
+Jphp:S121¡"0Add curly braces around the nested statement(s).(–‚½Åúÿÿÿÿ
+Dphp:S121Ä"0Add curly braces around the nested statement(s).(½ ±V
+Ephp:S121œ"0Add curly braces around the nested statement(s).(‡Üª
+Jphp:S121¡"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121Ÿ"0Add curly braces around the nested statement(s).(È’î
+Jphp:S121À"0Add curly braces around the nested statement(s).(ŒÙòİÿÿÿÿÿ
+Ephp:S121Æ"0Add curly braces around the nested statement(s).(ùãó‘
+Ephp:S121Ì"0Add curly braces around the nested statement(s).(‡Üª
+Jphp:S121Ñ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121Ï"0Add curly braces around the nested statement(s).(È’î
+Ephp:S121ÿ"0Add curly braces around the nested statement(s).(ë®Û¼
+Ephp:S121Ä"0Add curly braces around the nested statement(s).(ë®Û¼
+Jphp:S121×"0Add curly braces around the nested statement(s).(ÈÍâìøÿÿÿÿ
+Jphp:S121Ù"0Add curly braces around the nested statement(s).(ğÅÑèÿÿÿÿÿ
+Jphp:S121â"0Add curly braces around the nested statement(s).(ë½ù´şÿÿÿÿ
+Jphp:S121Ë"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Jphp:S121ã"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Dphp:S121ş"0Add curly braces around the nested statement(s).(½ ±V
+Jphp:S121…"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121ƒ"0Add curly braces around the nested statement(s).(øÀÜş
+Jphp:S121˜"0Add curly braces around the nested statement(s).(‰µĞ¼ûÿÿÿÿ
+Jphp:S121ñ	"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ
+Jphp:S121…
+"0Add curly braces around the nested statement(s).(ÿ®â²øÿÿÿÿ

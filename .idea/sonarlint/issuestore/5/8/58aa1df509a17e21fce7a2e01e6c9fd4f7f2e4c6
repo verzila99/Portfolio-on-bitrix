@@ -1,0 +1,90 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103d"KSplit this 122 characters long line (which is greater than 120 authorized).(›Çö†ûÿÿÿÿ
+dphp:S103e"KSplit this 130 characters long line (which is greater than 120 authorized).(·•’Ãşÿÿÿÿ
+`php:S103¡"KSplit this 127 characters long line (which is greater than 120 authorized).(’ÜŞª
+ephp:S103É"KSplit this 126 characters long line (which is greater than 120 authorized).(›ôá‰ıÿÿÿÿ
+U	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+`	php:S1808"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+U	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+U	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+U	php:S1808D";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+`	php:S1808H"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+U	php:S1808I";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+U	php:S1808O";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+`	php:S1808U"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+U	php:S1808V";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+U	php:S1808a";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+a	php:S1808Ÿ"FMove this "else" to the same line as the previous closing curly brace.(„¶áìøÿÿÿÿ
+U	php:S1808i";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+U	php:S1808u";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+U	php:S1808{";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808ƒ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808‹";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808 ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+^	php:S1808±"HMove this "elseif" to the same line as the previous closing curly brace.(¿ï
+^	php:S1808¸"HMove this "elseif" to the same line as the previous closing curly brace.(¬Óí’
+V	php:S1808«";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808²";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+V	php:S1808Ñ";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(îÑÒúÿÿÿÿ
+Y	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(“Šì®
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(˜ëúÕùÿÿÿÿ
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(¹Íòÿÿÿÿÿ
+Y	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(×î¼º
+^	php:S1808"IPut one space between this "foreach" keyword and the opening parenthesis.(¿‰æò
+X	php:S1808"CPut exactly one space after and before "=>" in "foreach" statement.(¿‰æò
+Y	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(áƒ÷…
+^	php:S1808#"DPut one space between this "if" keyword and the opening parenthesis.(…ÄŸ˜ûÿÿÿÿ
+Y	php:S1808&"DPut one space between this "if" keyword and the opening parenthesis.(Ù¨®Ë
+Y	php:S1808)"DPut one space between this "if" keyword and the opening parenthesis.(×î¼º
+^	php:S1808+"IPut one space between this "foreach" keyword and the opening parenthesis.(«‹÷é
+Y	php:S1808,"DPut one space between this "if" keyword and the opening parenthesis.(¶Š‚£
+X	php:S1808C"DPut one space between this "if" keyword and the opening parenthesis.(âP
+^	php:S1808N"DPut one space between this "if" keyword and the opening parenthesis.(»”³°øÿÿÿÿ
+X	php:S1808`"DPut one space between this "if" keyword and the opening parenthesis.(¸è¡
+
+^	php:S1808t"DPut one space between this "if" keyword and the opening parenthesis.(±ëåğıÿÿÿÿ
+Y	php:S1808z"DPut one space between this "if" keyword and the opening parenthesis.(Ú™ìê
+Z	php:S1808‚"DPut one space between this "if" keyword and the opening parenthesis.(×Æï©
+Z	php:S1808¦"DPut one space between this "if" keyword and the opening parenthesis.(Øèœ½
+c	php:S1808¨"HPut one space between this "elseif" keyword and the opening parenthesis.(Â©ë·úÿÿÿÿ
+c	php:S1808ª"HPut one space between this "elseif" keyword and the opening parenthesis.(İÀĞ“øÿÿÿÿ
+_	php:S1808¬"DPut one space between this "if" keyword and the opening parenthesis.(Â€–âüÿÿÿÿ
+^	php:S1808±"HPut one space between this "elseif" keyword and the opening parenthesis.(¿ï
+_	php:S1808³"DPut one space between this "if" keyword and the opening parenthesis.(Â€–âüÿÿÿÿ
+^	php:S1808¸"HPut one space between this "elseif" keyword and the opening parenthesis.(¬Óí’
+^	php:S1808º"HPut one space between this "elseif" keyword and the opening parenthesis.(È†Â
+^	php:S1808¼"HPut one space between this "elseif" keyword and the opening parenthesis.(–åíÜ
+_	php:S1808Ğ"DPut one space between this "if" keyword and the opening parenthesis.(ŠƒŞÿÿÿÿÿ
+I	php:S1808n"/Align all arguments in this list at column "5".(ó­¼Ğùÿÿÿÿ
+J	php:S1808"/Align all arguments in this list at column "7".(·ßî†øÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+h	php:S1871²"MThis branch's code block is the same as the block for the branch on line 171.(ÒÌâ–øÿÿÿÿ
+M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(îÑÒúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(îÑÒúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(˜ëúÕùÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(×î¼º
+Dphp:S121"0Add curly braces around the nested statement(s).(áƒ÷…
+Iphp:S121#"0Add curly braces around the nested statement(s).(…ÄŸ˜ûÿÿÿÿ
+Dphp:S121&"0Add curly braces around the nested statement(s).(Ù¨®Ë
+Dphp:S121)"0Add curly braces around the nested statement(s).(×î¼º
+Dphp:S121,"0Add curly braces around the nested statement(s).(¶Š‚£
+Dphp:S121+"0Add curly braces around the nested statement(s).(«‹÷é
+Iphp:S121]"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Iphp:S121["0Add curly braces around the nested statement(s).(€„óÙıÿÿÿÿ
+Iphp:S121~"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Iphp:S121|"0Add curly braces around the nested statement(s).(íõ¬–úÿÿÿÿ
+Jphp:S121…"0Add curly braces around the nested statement(s).(ÙÄÈøÿÿÿÿ
+Ephp:S121‡"0Add curly braces around the nested statement(s).(¯ù¤
+Jphp:S121¨"0Add curly braces around the nested statement(s).(Â©ë·úÿÿÿÿ
+Jphp:S121®"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121¬"0Add curly braces around the nested statement(s).(Â€–âüÿÿÿÿ
+Jphp:S121µ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121³"0Add curly braces around the nested statement(s).(Â€–âüÿÿÿÿ
+Ephp:S121¸"0Add curly braces around the nested statement(s).(¬Óí’
+Ephp:S121º"0Add curly braces around the nested statement(s).(È†Â
+Ephp:S121¼"0Add curly braces around the nested statement(s).(–åíÜ
+Jphp:S121¾"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121¦"0Add curly braces around the nested statement(s).(Øèœ½

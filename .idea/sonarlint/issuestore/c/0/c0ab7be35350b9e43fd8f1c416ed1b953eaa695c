@@ -1,0 +1,22 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+U	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(îÑÒúÿÿÿÿ
+Y	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(şØŸ¸
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(Ù»•ıÿÿÿÿ
+Y	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(ŸÎ«¢
+^	php:S18081"DPut one space between this "if" keyword and the opening parenthesis.(úÜ–×úÿÿÿÿ
+iphp:S100"URename function "OnSearchGetURL" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÍÎ”¾
+W	php:S1784"BExplicitly mention the visibility of this method "OnSearchGetURL".(ÍÎ”¾
+Q	php:S1142"<This method has 6 returns, which is more than the 3 allowed.(ÍÎ”¾
+3php:S113"'Add a new line at the end of this file.
+uphp:S117"\Rename this local variable "$IBLOCK_ID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÄÍÁ£üÿÿÿÿ
+M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(îÑÒúÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(îÑÒúÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(şØŸ¸
+Iphp:S121"0Add curly braces around the nested statement(s).(Ù»•ıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(¨ñø™úÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(ôëÙ
+Dphp:S121("0Add curly braces around the nested statement(s).(òüÆ’
+Iphp:S1213"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Iphp:S1211"0Add curly braces around the nested statement(s).(úÜ–×úÿÿÿÿ
