@@ -1,18 +1,0 @@
-
->	Web:S1827")Remove this deprecated "align" attribute.(ºÿÀÌ
-Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
-^php:S103"KSplit this 162 characters long line (which is greater than 120 authorized).(–ÃžQ
-dphp:S103"KSplit this 126 characters long line (which is greater than 120 authorized).(üâÓûÿÿÿÿ
-_php:S103"KSplit this 162 characters long line (which is greater than 120 authorized).(ºÿÀÌ
-^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(îÑÒúÿÿÿÿ
-^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(ÑÔÚÃýÿÿÿÿ
-D	php:S1808"/Align all arguments in this list at column "7".(ìª€œ
-D	php:S1808&"/Align all arguments in this list at column "6".(Ç©Èµ
-D	php:S18089"/Align all arguments in this list at column "6".(áŽø÷
->	php:S1781")Write this "Array" keyword in lower case.(ëÃ¨Œ
->	php:S1781(")Write this "Array" keyword in lower case.(ëÃ¨Œ
->	php:S1781;")Write this "Array" keyword in lower case.(ëÃ¨Œ
-«	php:S2681"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(ºÿÀÌ
-M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(îÑÒúÿÿÿÿ
-Iphp:S121"0Add curly braces around the nested statement(s).(îÑÒúÿÿÿÿ
-Iphp:S121"0Add curly braces around the nested statement(s).(ÑÔÚÃýÿÿÿÿ

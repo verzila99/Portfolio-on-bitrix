@@ -1,8 +1,0 @@
-
-FWeb:BoldAndItalicTagsCheck7"!Replace this <b> tag by <strong>.(ˆŞ¤/
-GWeb:BoldAndItalicTagsCheck9"!Replace this <b> tag by <strong>.(ÇĞ„
-Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
-^php:S103"KSplit this 191 characters long line (which is greater than 120 authorized).(õ
-^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(îÑÒúÿÿÿÿ
-M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(îÑÒúÿÿÿÿ
-Iphp:S121"0Add curly braces around the nested statement(s).(îÑÒúÿÿÿÿ

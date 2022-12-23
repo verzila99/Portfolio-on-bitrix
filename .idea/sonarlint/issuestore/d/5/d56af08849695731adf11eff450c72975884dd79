@@ -1,5 +1,0 @@
-
-Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
-U	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
-M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(ïËëºøÿÿÿÿ
-@	php:S2003"&Replace "require" with "require_once".(Ö™ˆ ÿÿÿÿÿ

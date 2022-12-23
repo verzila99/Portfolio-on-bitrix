@@ -1,14 +1,0 @@
-
-Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
-U	php:S1808";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
-7	php:S1780N"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
-C	php:S1781")Write this "Array" keyword in lower case.(ÓëÅÐÿÿÿÿÿ
-C	php:S1781
-")Write this "Array" keyword in lower case.(Ÿëóôüÿÿÿÿ
->	php:S1781")Write this "Array" keyword in lower case.(ˆœ×ø
-C	php:S1781")Write this "Array" keyword in lower case.(µë†Ôûÿÿÿÿ
-3php:S113"'Add a new line at the end of this file.
-M	php:S1757"3Change this opening tag to either "<?php" or "<?=".(ïËëºøÿÿÿÿ
-Dphp:S121"0Add curly braces around the nested statement(s).(ÌÙ…Ç
-Iphp:S1212"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
-Iphp:S1210"0Add curly braces around the nested statement(s).(ÿÎÉ´ýÿÿÿÿ
